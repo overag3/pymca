@@ -5,6 +5,7 @@
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>pymca</id>
     <version>5.5.5</version>
+    <packageSourceUrl>https://github.com/overag3/pymca</packageSourceUrl>
     <owners>overage, gfe</owners>
     <!-- ============================== -->
 
@@ -15,7 +16,7 @@
     <iconUrl>https://cdn.jsdelivr.net/gh/overag3/pymca/pymca.png</iconUrl>
     <licenseUrl>http://pymca.sourceforge.net/license.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/overag3/pymca</projectSourceUrl>
+    <projectSourceUrl>https://github.com/vasole/pymca</projectSourceUrl>
     <docsUrl>http://pymca.sourceforge.net/documentation.html</docsUrl>
     <mailingListUrl>https://sourceforge.net/p/pymca/mailman/</mailingListUrl>
     <bugTrackerUrl>https://github.com/vasole/pymca/issues</bugTrackerUrl>
@@ -30,6 +31,7 @@ For the developer, the PyMca Toolkit is a collection of Python tools for visuali
 
 In addition to data files, PyMca can also access SPEC shared memory to monitor data acquisitions.
     </description>
+    <releaseNotes>https://github.com/vasole/pymca/blob/master/changelog.txt</releaseNotes>
     <!-- =============================== -->
   </metadata>
   <files>
