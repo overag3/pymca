@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>pymca</id>
-    <version>5.6.5</version>
+    <version>5.6.7</version>
     <packageSourceUrl>https://github.com/overag3/pymca</packageSourceUrl>
     <owners>overage, gfe</owners>
     <!-- ============================== -->
